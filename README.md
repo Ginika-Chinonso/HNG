@@ -1,3 +1,6 @@
+# View life project
+To view the live project, [Click here](https://sensational-tulumba-61c899.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
