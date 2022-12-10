@@ -1,4 +1,4 @@
-# View life project
+# View live project
 To view the live project, [Click here](https://sensational-tulumba-61c899.netlify.app/)
 
 # Getting Started with Create React App
